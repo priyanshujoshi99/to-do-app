@@ -1,6 +1,8 @@
 # React To-Do List
 
-
+<div float="left">
+    <img src="https://github.com/priyanshujoshi99/to-do-app/blob/master/src/assets/img.png" alt="screen shot">
+</div>
 
 ### Prerequisites
 
